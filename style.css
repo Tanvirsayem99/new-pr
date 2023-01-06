@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    
+    background-image: url(../images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    
+}
+.head-all{
+    align-items: center;
+    text-align: center;
+    padding-top: 200px;
+    width: 600px;
+    margin: 0px 550px;
+    
+}
+.frist-title{
+    color: white;
+    
+    font-size: 50px;
+}
+.head-all .head-paragraph{
+    color: wheat;
+    margin: 20px 0px;
+
+}
+.head-btn{
+    color: white;
+    background-color: orangered;
+    height: 35px;
+    width: 100px;
+    border: 0;
+}
+/* main menu */
+main{
+    margin: 100px 0px;
+}
+.main-menu{
+    text-align: center;
+}
+.main-title{
+    font-size: 40px;
+}
+ .main-paragraph{
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+.main-amount{
+    text-align: center;
+    margin: 45px 0px;
+}
+.main-amount .amount-btn{
+    background-color: #FAFAFA;
+    width: 130px;
+    height: 120px;
+    border: 0;
+    color: #707070;
+    font-size: 25px;
+    font-weight: 900;
+}
+.special-btn{
+    border: 3px solid orangered;
+    background-color: #FFEEEE;
+    width: 130px;
+    height: 120px;
+    color: orangered;
+    font-size: 25px;
+    font-weight: 900;
+    border-radius: 5px;
+}
+.last{
+    text-align: center;
+    
+}
+hr{
+    margin: auto;
+    width: 700px;
+}
+.amount-last-btn{
+    color: white;
+    background-color: orangered;
+    height: 35px;
+    width: 100px;
+    border: 0;
+    margin: 30px 0px;   
+}
